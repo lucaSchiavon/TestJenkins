@@ -4,7 +4,7 @@ pipeline {
  environment {
    
     PROJECT_NAME = "AppAsp2"
-    PUBLISH_TARGET_PATH_PROD = "D:\WWWROOT\TestJenkins"
+    PUBLISH_TARGET_PATH_PROD = "D:\\WWWROOT\\TestJenkins"
 
 }
 
