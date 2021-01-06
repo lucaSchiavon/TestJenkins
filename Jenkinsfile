@@ -58,7 +58,7 @@ pipeline {
                 steps {
                     echo 'Deploying PROD...'
                     fileOperations([folderCopyOperation(
-                        sourceFolderPath: "/bin/Release/netcoreapp3.1/publish", 
+                        sourceFolderPath: "${workspace}/bin/Release/netcoreapp3.1/publish", 
                         destinationFolderPath: "${env.PUBLISH_TARGET_PATH_PROD}"
                         )])
                     echo "Deployed on ${env.PUBLISH_TARGET_PATH_PROD}"
