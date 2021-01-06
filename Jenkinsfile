@@ -13,7 +13,7 @@ pipeline {
   stage('Build') {
     stages {
 
-        stage('deploy PROD') {
+        stage('bild PROD') {
             when {
                 branch 'master'
             }
