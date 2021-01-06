@@ -18,7 +18,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                echo 'Building PROD...'
+                echo 'Building PROD...xx'
                 bat "\"C:/Program Files/dotnet/dotnet.exe\" restore \"${workspace}/${env.PROJECT_NAME}.csproj\""
                 bat "\"C:/Program Files/dotnet/dotnet.exe\" build \"${workspace}/${env.PROJECT_NAME}.csproj\" --configuration Release"
                 bat "\"C:/Program Files/dotnet/dotnet.exe\" publish \"${workspace}/${env.PROJECT_NAME}.csproj\" --configuration Release"
