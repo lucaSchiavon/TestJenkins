@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\appasp2.csproj": {}
+    "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\AppAsp2.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\appasp2.csproj": {
+    "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\AppAsp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\appasp2.csproj",
-        "projectName": "appasp2",
-        "projectPath": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\appasp2.csproj",
+        "projectUniqueName": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\AppAsp2.csproj",
+        "projectName": "AppAsp2",
+        "projectPath": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\AppAsp2.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\obj\\",
         "projectStyle": "PackageReference",
@@ -27,6 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\GIT\\powerapptelerik\\lib": {},
+          "D:\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

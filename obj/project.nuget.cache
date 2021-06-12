@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvQaGpAx3LqAgzXQ4OUwqDzRC1vdtEkTYIcU4OPDnKSbNYcuCR3AMm4rOiWGpHikbWwjF5YZOQhKspzDcnsHQQ==",
+  "dgSpecHash": "hhj4Kr1ZOLfedT7A1yshXterbu/WE6KEOqGBz0Mc+5MQ75wnk4b+zpEXkKb7X1SYWEA1Hc7r68Z6Y7l6ZSxH3g==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\appasp2.csproj",
+  "projectFilePath": "D:\\Users\\Luca\\Desktop\\TestJenkins\\AppAsp2\\AppAsp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
