@@ -15,7 +15,7 @@ namespace AppAsp2.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            //test
+            //test secondo
             _logger = logger;
         }
 
